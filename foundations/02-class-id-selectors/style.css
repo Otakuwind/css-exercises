@@ -1,0 +1,16 @@
+.odd {
+ background-color: rgb(255, 167, 167);
+}
+
+.adjust-font-size {
+  font-size: 22px;
+}
+#two {
+  color: blue;
+  font-size: 36px;
+}
+
+#four {
+  background-color:rgb(189, 255, 189);
+  font-weight: bold;
+}
